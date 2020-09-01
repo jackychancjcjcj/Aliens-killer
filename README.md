@@ -2,12 +2,12 @@
 Python编程从入门到实践项目1：
 ====
 
-消灭外星人小游戏-pygame
+[消灭外星人小游戏-pygame](https://github.com/jackychancjcjcj/Aliens-killer/tree/master/%E5%A4%96%E6%98%9F%E4%BA%BA%E5%85%A5%E4%BE%B5)
 
 Python编程从入门到实践项目2：
 ==
 
-Django网站搭建
+[Django网站搭建](https://github.com/jackychancjcjcj/Aliens-killer/tree/master/%E7%BD%91%E7%AB%99)
 
 Git 上传语法：
 ===
